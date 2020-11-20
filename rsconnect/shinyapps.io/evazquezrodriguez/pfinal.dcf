@@ -1,0 +1,12 @@
+name: pfinal
+title:
+username:
+account: evazquezrodriguez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3219273
+bundleId: 3885119
+url: https://evazquezrodriguez.shinyapps.io/pfinal/
+when: 1605882745.64529
+asMultiple: FALSE
+asStatic: FALSE
